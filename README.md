@@ -67,7 +67,7 @@ project_root/
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd "C:\Users\anony\OneDrive\Desktop\New folder (2)"
+   cd "C:\UsersDesktop\New folder"
    ```
 
 2. **Create a virtual environment (recommended):**
